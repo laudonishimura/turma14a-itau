@@ -2,7 +2,6 @@
 
 <h3> Um deploy aotomático feito com alunos do itaú </h3>
 
-<h5>Tentar sempre, desistir jamais!!!<h5>
 
 <div style="display:flex">
 <div 			style="width:200px;height:200px;background:yellow;padding:50px;margin:10px">
